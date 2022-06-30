@@ -20,8 +20,8 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/quiz-app.git
-cd quiz-app
+git clone https://github.com/pruthvidarji1993/react-quiz-app.git
+cd react-quiz-app
 ```
 
 Install dependencies:
